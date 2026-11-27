@@ -1,0 +1,10 @@
+site_name: DevOps Operations Handbook
+site_author: Бочин Василий Сергеевич
+repo_url: https://github.com/VasX2K/devops-docs
+theme:
+  name: mkdocs
+  locale: ru
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Инциденты: incidents.md
