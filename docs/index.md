@@ -3,5 +3,3 @@
 **Версия: 2.**
 
 Изменения проходят Pull Request, Pylint и публикацию Pages.
-
-[Missing](missing.md)
